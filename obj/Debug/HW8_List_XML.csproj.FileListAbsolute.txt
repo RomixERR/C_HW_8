@@ -1,0 +1,8 @@
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\bin\Debug\HW8_List_XML.exe.config
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\bin\Debug\HW8_List_XML.exe
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\bin\Debug\HW8_List_XML.pdb
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\obj\Debug\HW8_List_XML.csproj.AssemblyReference.cache
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\obj\Debug\HW8_List_XML.csproj.SuggestedBindingRedirects.cache
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\obj\Debug\HW8_List_XML.csproj.CoreCompileInputs.cache
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\obj\Debug\HW8_List_XML.exe
+E:\C#\SKILLBOXC#\HW8\HW8_List_XML\obj\Debug\HW8_List_XML.pdb

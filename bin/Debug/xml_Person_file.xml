@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Жбанов Вячислав Владиленович">
+  <Address>
+    <Street>Промойская</Street>
+    <HouseNumber>9</HouseNumber>
+    <FlatNumber>23</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>88005552535</MobilePhone>
+    <FlatPhone>454545</FlatPhone>
+  </Phones>
+</Person>
